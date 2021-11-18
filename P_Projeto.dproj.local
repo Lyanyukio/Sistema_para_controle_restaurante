@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/25 16:12:44.000.648,=C:\Users\Lyan\Desktop\Lyan\U_Cliente2.pas</Transaction>
+    <Transaction>2021/06/25 16:12:44.000.704,=C:\Users\Lyan\Desktop\Lyan\U_Produtos.pas</Transaction>
+    <Transaction>2021/06/25 16:13:54.000.823,C:\Users\Lyan\Desktop\Lyan\U_Cliente.dfm=C:\Users\Lyan\Desktop\Lyan\U_Cliente2.dfm</Transaction>
+    <Transaction>2021/06/25 16:13:54.000.823,C:\Users\Lyan\Desktop\Lyan\U_Cliente.pas=C:\Users\Lyan\Desktop\Lyan\U_Cliente2.pas</Transaction>
+    <Transaction>2021/06/25 16:23:53.000.687,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 16:39:37.000.749,C:\Users\Lyan\Desktop\Lyan\U_Pratos.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/06/25 16:39:37.000.749,C:\Users\Lyan\Desktop\Lyan\U_Pratos.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 18:10:07.000.192,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 18:28:58.000.129,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 18:29:21.000.666,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 18:29:44.000.001,C:\Users\Lyan\Desktop\Lyan\U_Mesas.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/25 18:29:44.000.001,C:\Users\Lyan\Desktop\Lyan\U_Mesas.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/06/30 21:09:18.000.063,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/06/30 21:11:59.000.517,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 12:01:46.000.100,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 12:02:02.000.883,C:\Users\Lyan\Desktop\Lyan\U_Pratos.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/01 12:02:02.000.883,C:\Users\Lyan\Desktop\Lyan\U_Pratos.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/07/04 14:06:44.000.888,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/04 14:07:57.000.780,C:\Users\Lyan\Desktop\Lyan\Unit1.pas=C:\Users\Lyan\Desktop\Lyan\U_EntradaSaida.pas</Transaction>
+    <Transaction>2021/07/04 14:07:57.000.780,C:\Users\Lyan\Desktop\Lyan\Unit1.dfm=C:\Users\Lyan\Desktop\Lyan\U_EntradaSaida.dfm</Transaction>
+    <Transaction>2021/07/04 14:08:22.000.840,C:\Users\Lyan\Desktop\Lyan\U_EntradaSaida.dfm=C:\Users\Lyan\Desktop\Lyan\U_EntradadeProduto.dfm</Transaction>
+    <Transaction>2021/07/04 14:08:22.000.840,C:\Users\Lyan\Desktop\Lyan\U_EntradaSaida.pas=C:\Users\Lyan\Desktop\Lyan\U_EntradadeProduto.pas</Transaction>
+    <Transaction>2021/07/05 20:29:01.000.294,C:\Users\Lyan\Desktop\Lyan\U_Mesas.pas=C:\Users\Lyan\Desktop\Lyan\U_Pedido.pas</Transaction>
+    <Transaction>2021/07/05 20:29:01.000.294,C:\Users\Lyan\Desktop\Lyan\U_Mesas.dfm=C:\Users\Lyan\Desktop\Lyan\U_Pedido.dfm</Transaction>
+    <Transaction>2021/07/06 18:13:53.000.046,C:\Users\Lyan\Desktop\Lyan\U_Pratos.pas=</Transaction>
+    <Transaction>2021/07/16 12:33:23.000.600,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/16 12:40:31.000.075,C:\Users\Lyan\Desktop\Lyan\Unit1.dfm=C:\Users\Lyan\Desktop\Lyan\U_Relatorio.dfm</Transaction>
+    <Transaction>2021/07/16 12:40:31.000.075,C:\Users\Lyan\Desktop\Lyan\Unit1.pas=C:\Users\Lyan\Desktop\Lyan\U_Relatorio.pas</Transaction>
+    <Transaction>2021/07/19 12:36:18.000.089,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 12:38:42.000.594,C:\Users\Lyan\Desktop\Lyan\U_RelatorioClient.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/19 12:38:42.000.594,C:\Users\Lyan\Desktop\Lyan\U_RelatorioClient.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/07/22 15:19:23.000.276,C:\Users\Lyan\Desktop\Lyan\U_RelCliente.dfm=C:\Users\Lyan\Desktop\Lyan\U_Relatorio.dfm</Transaction>
+    <Transaction>2021/07/22 15:19:23.000.276,C:\Users\Lyan\Desktop\Lyan\U_RelCliente.pas=C:\Users\Lyan\Desktop\Lyan\U_Relatorio.pas</Transaction>
+    <Transaction>2021/07/31 19:25:26.000.135,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/31 19:31:48.000.988,C:\Users\Lyan\Desktop\Lyan\U_Sobre.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/07/31 19:31:48.000.988,C:\Users\Lyan\Desktop\Lyan\U_Sobre.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/08/02 20:50:20.000.291,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/08/02 20:50:58.000.333,C:\Users\Lyan\Desktop\Lyan\U_NotaFiscal.dfm=C:\Users\Lyan\Desktop\Lyan\Unit1.dfm</Transaction>
+    <Transaction>2021/08/02 20:50:58.000.333,C:\Users\Lyan\Desktop\Lyan\U_NotaFiscal.pas=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 20:19:00.000.703,=C:\Users\Lyan\Desktop\Lyan\Unit1.pas</Transaction>
+    <Transaction>2021/08/03 20:20:14.000.591,C:\Users\Lyan\Desktop\Lyan\Unit1.dfm=C:\Users\Lyan\Desktop\Lyan\U_CupomFiscal.dfm</Transaction>
+    <Transaction>2021/08/03 20:20:14.000.591,C:\Users\Lyan\Desktop\Lyan\Unit1.pas=C:\Users\Lyan\Desktop\Lyan\U_CupomFiscal.pas</Transaction>
+    <Transaction>2021/08/09 16:42:52.000.228,C:\Users\Lyan\Desktop\Lyan\U_RelProduto.pas=C:\Users\Lyan\Desktop\Lyan\U_RelCliente.pas</Transaction>
+    <Transaction>2021/08/09 16:42:52.000.228,C:\Users\Lyan\Desktop\Lyan\U_RelProduto.dfm=C:\Users\Lyan\Desktop\Lyan\U_RelCliente.dfm</Transaction>
+    <Transaction>2021/08/09 16:43:36.000.182,=C:\Users\Lyan\Desktop\Lyan\U_RelCliente.pas</Transaction>
+    <Transaction>2021/08/09 16:43:52.000.739,C:\Users\Lyan\Desktop\Lyan\U_RelatorioClient.pas=</Transaction>
+    <Transaction>2021/08/10 22:33:48.000.380,C:\Users\Lyan\Desktop\Lyan\U_Teste.pas=C:\Users\Lyan\Desktop\Lyan\U_Cliente.pas</Transaction>
+    <Transaction>2021/08/10 22:33:48.000.380,C:\Users\Lyan\Desktop\Lyan\U_Teste.dfm=C:\Users\Lyan\Desktop\Lyan\U_Cliente.dfm</Transaction>
+    <Transaction>2021/08/10 22:35:43.000.405,=C:\Users\Lyan\Desktop\Lyan\U_Empresa.pas</Transaction>
+    <Transaction>2021/08/10 22:36:18.000.863,C:\Users\Lyan\Desktop\Lyan\U_Teste.pas=</Transaction>
+    <Transaction>2021/08/10 22:36:24.000.780,=C:\Users\Lyan\Desktop\Lyan\U_Cliente.pas</Transaction>
+  </Transactions>
+</BorlandProject>
